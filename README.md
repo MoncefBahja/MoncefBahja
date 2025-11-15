@@ -20,7 +20,7 @@ I am a full-stack developer (Master’s in Computer Science) specialized in Java
 
 ## 🧰 Tech / Tools
 **Languages:** Java, JavaScript, TypeScript, Python, SQL, C, PHP  
-**Frontend:** React, Tailwind CSS, Bootstrap
+**Frontend:** React, Tailwind CSS, Bootstrap              
 **Backend:** Spring Boot, JEE, laravel   
 **Databases:** Oracle, SQL Server, MySQL  
 **DevOps / Other Tools:** Docker, Git, GitLab CI/CD, Kubernetes
