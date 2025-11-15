@@ -1,6 +1,6 @@
 # 👋 Hi — I'm **Moncef Bahja**
 
-> Full-Stack Developer .
+> Full-Stack Developer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MoncefBahja-blue?logo=linkedin)](https://www.linkedin.com/in/moncef-bahja-315328265/)
 [![Email](https://img.shields.io/badge/Email-moncefbahja0%40gmail.com-c14438?logo=gmail)](mailto:moncefbahja0@gmail.com)
@@ -24,11 +24,3 @@ I am a full-stack developer (Master’s in Computer Science) specialized in Java
 **Backend:** Spring Boot, JEE, laravel   
 **Databases:** Oracle, SQL Server, MySQL  
 **DevOps / Other Tools:** Docker, Git, GitLab CI/CD, Kubernetes
-
-
-
-
-# frontend (React)
-cd ../frontend
-npm install
-npm run start
