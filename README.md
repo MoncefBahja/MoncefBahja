@@ -3,7 +3,7 @@
 > Full-Stack Developer • Java | Spring Boot | React • Passionate about microservices architectures, user interfaces, and high-value web applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MoncefBahja-blue?logo=linkedin)](https://www.linkedin.com/in/moncef-bahja-315328265/)
-[![Email](https://img.shields.io/badge/Email-moncef.bahja%40example.com-c14438?logo=gmail)](mailto:moncefbahja0@gmail.com)
+[![Email](https://img.shields.io/badge/Email-moncefbahja0%40gmail.com-c14438?logo=gmail)](mailto:moncefbahja0@gmail.com)
 
 ---
 
